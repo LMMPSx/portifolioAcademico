@@ -36,7 +36,6 @@ O repositório está organizado nos seguintes diretórios principais:
 
 1. Selecione a **Unidade Curricular** desejada na lista de pastas acima.
 2. Acesse a pasta correspondente para visualizar os arquivos de entrega, códigos-fonte ou relatórios em formato Markdown (`.md`).
-3. Consulte as documentações internas de cada diretório para obter detalhes específicos sobre os objetivos de aprendizagem alcançados.
 
 ---
 
